@@ -16,7 +16,7 @@ I added two documents to the Github by local end.
 
 
 
-pwd 
+pwd
 
 cd learning-trial
 
@@ -25,6 +25,28 @@ git status
 git add xxxxx
 
 git commit -m "(explanation)"
+
+git push
+
+
+
+I also learned how to create and link branch
+
+git branch <name>
+
+git switch <>
+
+git add .
+
+git commit -m ""
+
+git push -u origin <>
+
+git switch main
+
+git pull
+
+git merge <>
 
 git push
 
